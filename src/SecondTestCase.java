@@ -1,5 +1,7 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
+// we should update run/ debug confirmation listeners by adding enable reporter and failed reporter
+//to generate fail xml and html report
 
 public class SecondTestCase {
 
